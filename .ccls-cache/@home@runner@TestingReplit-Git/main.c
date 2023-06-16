@@ -7,7 +7,7 @@ int main(void) {
   printf("This is my first program in C language\n");
   
   /*Testing Out Some Ideas*/
-  int testNum = 5;
+  int testNum = 10;
   printf("The testing number is: %d\n\n", testNum);
 
   int numA, numB; 
