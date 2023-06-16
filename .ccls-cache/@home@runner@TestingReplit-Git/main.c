@@ -16,8 +16,9 @@ int main(void) {
   scanf("%d", &numA);
   printf("Please enter a number:\t");
   scanf("%d", &numB);
-    printf("The addition of the two numbers you entered is: %d\n",(numA + numB));
+  printf("The addition of the two numbers you entered is: %d\n",(numA + numB));
   printf("The multiplication of the two numbers you entered is: %d\n",(numA * numB));
+  printf("The division of the two numbers you entered is: %d\n",(numA / numB));
 
   return 0;
 }
