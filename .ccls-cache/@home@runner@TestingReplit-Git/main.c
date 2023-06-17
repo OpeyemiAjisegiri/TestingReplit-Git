@@ -4,8 +4,8 @@
 
 int main(void) {
   printf("Hello World\n");
-  printf("My name is Opeyemi Ajisegiri");
-  printf("This is my first program in C language\n");
+  printf("My name is Opeyemi Ajisegiri\n");
+  printf("This is my first program in C language\n\n");
   
   /*Testing Out Some Ideas*/
   int testNum = 10;
